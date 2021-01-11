@@ -218,5 +218,5 @@ def wechatPush(title,sckey,success,fail,result):
         print("微信推送参数错误")
 
 if __name__ == '__main__':
-    mark = 1
+    mark = 0
     main()
